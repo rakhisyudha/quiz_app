@@ -51,7 +51,6 @@ Latihan membuat aplikasi mobile **sederhana tapi fungsional** dengan:
 2. **Shuffle Logic** → `List.shuffle()` + `setState` agar soal beda tiap main
 3. **Feedback Instan** → Skor langsung muncul + warna hijau/merah
 4. **UI Consistency** → Warna, font, spacing sama di semua screen
-5. **Dari Tugas Kuliah ke Portofolio** → Bisa bikin sesuatu yang "jelek" jadi "presentable"
 
 ---
 
