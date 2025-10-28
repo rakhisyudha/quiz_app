@@ -66,9 +66,12 @@ Latihan membuat aplikasi mobile **sederhana tapi fungsional** dengan:
 
 ---
 
-## Live Demo / Install
-- **Soon**
+## Live Demo
+**Mainkan Quiz App langsung di browser**
+**[Coba di Appetize.io](https://appetize.io/app/b_oaujsptwwlpygbcgwucebwj43u)**
+
+> *Tips: Pilih device Pixel 7 + Android 13*
 
 ---
 
-> **Dibuat dengan ❤️ oleh Rakhis Yudha** 
+> **Made with ❤️ by Rakhis de Yudha** 
