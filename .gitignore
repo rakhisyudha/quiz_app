@@ -43,3 +43,18 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# VS Code will place build artifacts here
+android/
+ios/
+linux/
+macos/
+windows/
+web/
+test/
+pubspec.lock
+analysis_options.yaml
+.metadata
+build/
+.dart_tool/
+.packages
