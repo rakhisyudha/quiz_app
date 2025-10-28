@@ -1,6 +1,6 @@
 # Dart Quiz App 
 
-> **Mini Project: Belajar Mobile + UI/UX sambil bikin sesuatu yang berguna**  
+> **Mini Project: Belajar Mobile + UI/UX**  
 > Dibuat dalam **3 hari** sebagai latihan transisi dari Fullstack ke **Mobile Dev & UI/UX**.
 
 ---
