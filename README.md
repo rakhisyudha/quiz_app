@@ -34,8 +34,15 @@ Latihan membuat aplikasi mobile **sederhana tapi fungsional** dengan:
 ---
 
 ## 📸 Screenshot
-
-> *Catatan: Screenshot diambil dari emulator Android. UI responsif untuk iOS & Android.*
+- **Start Screen**
+![img alt](https://github.com/rakhisyudha/quiz_app/blob/e217dc10828fada3a64d732fcd08c6586bf0834a/assets/app/flutter_01.png)
+- **Question**
+![img alt](https://github.com/rakhisyudha/quiz_app/blob/e217dc10828fada3a64d732fcd08c6586bf0834a/assets/app/flutter_02.png)
+- **Another Question**
+![img alt](https://github.com/rakhisyudha/quiz_app/blob/e217dc10828fada3a64d732fcd08c6586bf0834a/assets/app/flutter_03.png)
+- **Summary**
+![img alt](https://github.com/rakhisyudha/quiz_app/blob/e217dc10828fada3a64d732fcd08c6586bf0834a/assets/app/flutter_04.png)
+> *Catatan: Screenshot diambil dari emulator Android.*
 
 ---
 
@@ -50,8 +57,6 @@ Latihan membuat aplikasi mobile **sederhana tapi fungsional** dengan:
 
 ## Next Improvement
 - [ ] Tambah **timer** per soal
-- [ ] **Leaderboard** lokal
-- [ ] **Dark mode**
 - [ ] Ambil soal dari **API**
 
 ---
