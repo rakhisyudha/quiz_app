@@ -27,7 +27,7 @@ Latihan membuat aplikasi mobile **sederhana tapi fungsional** dengan:
 
 ## Tech Stack
 - **Framework**: Flutter
-- **State Management**: `setState` (simpel & cepat buat pemula)
+- **State Management**: `setState`
 - **Data**: Hardcoded JSON di lokal (bisa dikembangkan ke API nanti)
 - **UI/UX**: Desain dari tugas kuliah, dipoles ulang biar mobile-friendly
 
